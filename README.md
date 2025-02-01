@@ -34,8 +34,8 @@ Follow these steps to deploy the infrastructure using Terraform.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/terraform-aws-vpc-public-private.git
-cd terraform-aws-vpc-public-private
+git clone https://github.com/Ahemida96/Terraform-AWS-VPC-with-Public-Private-Subnets-and-EC2.git
+cd Terraform-AWS-VPC-with-Public-Private-Subnets-and-EC2
 ```
 ### 2. Configure AWS Credentials
 ```bash
