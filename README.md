@@ -73,8 +73,3 @@ Confirm by typing **yes** when prompted.
 - AMI IDs: The AMI IDs used in the EC2 instance resources may need to be updated to reflect the current, valid AMIs in your region.
 - Key Pair: Ensure that the key pair (terraform) exists in your AWS account, or update the key name in the configuration.
 - Availability Zones: The availability_zone fields in the subnet configurations are commented out. You may uncomment and specify them based on your deployment needs.
-
-## Licence
-```sql
-Simply copy and paste this content into your `README.md` file, and update any project-specific details as needed. Happy Terraforming!
-```
